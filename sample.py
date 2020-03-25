@@ -19,7 +19,7 @@ class Randomizer:
 		self.root.mainloop()
 
 	def roll(self):
-		
+		self.img.configure(file='3.png')
 
 
 
